@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+/usr/bin/vasm6502_std $1 -Fbin -o $2
